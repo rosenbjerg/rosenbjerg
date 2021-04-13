@@ -3,10 +3,11 @@
 ![Rosenbjerg's GitHub stats](https://github-readme-stats.vercel.app//api?username=rosenbjerg&show_icons=true&theme=tokyonight&count_private=true)
 
 
-![Rosenbjerg's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rosenbjerg&langs_count=10&layout=compact&theme=tokyonight&count_private=true)
-
 <!--
 **rosenbjerg/rosenbjerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![Rosenbjerg's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rosenbjerg&langs_count=10&layout=compact&theme=tokyonight&count_private=true)
 
 Here are some ideas to get you started:
 
