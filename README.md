@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ![Rosenbjerg's GitHub stats](https://github-readme-stats.vercel.app//api?username=rosenbjerg&show_icons=true&theme=tokyonight&count_private=true)
 ![Rosenbjerg's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rosenbjerg&langs_count=6&layout=compact&theme=tokyonight)
